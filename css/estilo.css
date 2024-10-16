@@ -1,0 +1,36 @@
+.foto{
+    width: 100%;
+}
+
+.cor_menu{
+    background-color: rgb(158, 94, 218);
+}
+
+.car_foto{
+   
+}
+
+.sec_1{
+    margin-bottom: 2%;
+    margin-top:  2% ;
+}
+
+.sec_2{
+    margin-bottom: 1%;
+    margin-top:  1% ;
+}
+
+.p_fo{
+    text-align: center;
+    background-color: rgb(92, 181, 233);
+    margin-bottom: none;
+}
+.center{
+    align-items: center;
+    
+}
+
+.card_pro{
+    margin-top: 15%;
+    margin-left: 3%;
+}
